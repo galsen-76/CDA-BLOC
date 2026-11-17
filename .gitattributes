@@ -1,0 +1,7 @@
+# Mêmes fins de ligne pour tout le monde (Windows / Mac / Linux) : évite les faux conflits
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.pdf binary
+*.drawio text
+*.loo binary

@@ -1,0 +1,24 @@
+# --- Obsidian : réglages propres à chaque ordinateur (source n°1 des conflits) ---
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+.obsidian/graph.json
+.obsidian/cache
+.obsidian/hotkeys.json
+.obsidian/bookmarks.json
+.obsidian/types.json
+
+# Plugins : chacun les installe depuis Obsidian, seuls les réglages partagés sont versionnés
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/manifest.json
+.obsidian/plugins/*/styles.css
+.obsidian/plugins/obsidian-git/
+.obsidian/themes/
+
+# Corbeille Obsidian et fichiers système
+.trash/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+~$*

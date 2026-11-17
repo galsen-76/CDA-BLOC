@@ -1,0 +1,8 @@
+{
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./Images",
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "showFrontmatter": false,
+  "useMarkdownLinks": false
+}
